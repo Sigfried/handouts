@@ -6,6 +6,8 @@ A `README.md` file is a very useful component of any project repository. As you 
 
 - Sigfried Gold
 - Rachel Schattman
+- Sarah Wiener
+
 
 
 
